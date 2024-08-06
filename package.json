@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "npm": "^9.7.2",
+    "serve": "^14.2.0"
+  },
+  "name": "firstproject",
+  "version": "0.0.1",
+  "description": "este es el primer proyecto",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "ejecuta": "node ./cli.js",
+    "start": "node ./os.js",
+    "dev": "nodemon ./main.js"
+  },
+  "keywords": [
+    "first",
+    "project",
+    "nodejs"
+  ],
+  "author": "a",
+  "license": "ISC"
+}
